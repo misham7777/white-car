@@ -2,10 +2,8 @@
 
 import { motion, useReducedMotion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 import { BlurredStagger } from "@/components/ui/blurred-stagger-text";
 import { Zap, ArrowRight } from "lucide-react";
-import Link from "next/link";
 import Image from "next/image";
 
 function Hero() {

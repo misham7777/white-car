@@ -3,7 +3,6 @@
 import { motion, useReducedMotion } from "framer-motion";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 import { Zap, ArrowRight, CheckCircle, FileText, Users } from "lucide-react";
 
 interface HeroDirectLuxProps {
